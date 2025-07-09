@@ -16,7 +16,7 @@ import sys
 
 # -- Project information -----------------------------------------------------
 
-project = 'Trust Wallet'
+project = 'Binance Support'
 
 
 # The full version, including alpha/beta/rc tags
